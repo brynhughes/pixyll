@@ -1,19 +1,20 @@
 ---
+
 layout: page
-title: About Pixyll
-permalink: /about/
+
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+<img class="right" src="https://dl.dropboxusercontent.com/s/jcphzidr44d601i/5480891138_bb60d64ccf_z.jpg?dl=0" height="35%" width="35%">
 
-Thanks to the following:
+My name is Bryn Hughes, and I teach music theory at the [Frost School of Music](http://www.miami.edu/frost/index.php/frost) at the [University of Miami](http://www.miami.edu) in Coral Gables, Florida.  
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+My research interests include music cognition, music theory pedagogy, and popular music analysis. My dissertation involved an investigation of harmonic expectation in twelve-bar blues progressions.
+
+I have presented my research at numerous regional, national, and international conferences. For more information, please feel free to peruse my <a href="/cv.html">CV</a>.
+
+Feel free to <a href="mailto:bryn.hughes@gmail.com">email</a> me, or follow me on <a href="http://twitter.com/brynmdhughes">twitter</a>.
+
+
+
+

@@ -22,7 +22,13 @@ html, body {
 }
 
 img {
-  width: 100%;
+	padding-right: 0.5em;
+	padding-bottom: 1em;
+	padding-left: 1em;
+}
+
+.right {
+	float: right;
 }
 
 .site-wrap {
